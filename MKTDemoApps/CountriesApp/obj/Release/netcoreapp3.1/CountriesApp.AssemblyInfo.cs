@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountriesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deeeb12f6340f00ef407070922622bce6c62a9b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727c5565da303f7935aaf1c53b87d961da2386fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountriesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountriesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = CountriesApp
-build_property.ProjectDir = C:\Users\lucas\source\repos\MKTDemoApps\CountriesApp\
+build_property.ProjectDir = C:\Users\lucas\Source\Repos\Exercise2\MKTDemoApps\CountriesApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
